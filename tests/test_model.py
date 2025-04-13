@@ -8,8 +8,8 @@ from Model import (
 )
 
 CONFIG = {
-    "input_shapefile": "C:/GNSS-Track-Consolidation/data/Trails_trks.shp",
-    "output_directory": "C:/GNSS-Track-Consolidation/test_outputs",
+    "input_shapefile": "./data/Trails_trks.shp",
+    "output_directory": "./test_outputs",
     "cell_size": 0.4,
     "search_radius": 1.5,
     "tolerance": 2.5,
