@@ -1,0 +1,9 @@
+cpython==3.11
+shapely==2.0.6
+geopandas
+pygeoops
+rasterio
+scipy
+numpy
+matplotlib
+skimage
