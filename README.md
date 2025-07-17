@@ -13,6 +13,7 @@ This repository contains a Python implementation for processing GNSS track data,
 
 ## Publication
 You can read the details in the published paper here https://doi.org/10.1016/j.atech.2025.101038
+
 Citation: Cao, S., Abdi, O., Koivukoski, K., Mao, Z., & Uusitalo, J. (2025). Automating the consolidation of GNSS logging tracks and machine pass counting in Boreal forests. Smart Agricultural Technology, 101038.
 
 ## Installation
