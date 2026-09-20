@@ -1,5 +1,7 @@
 # GNSS Track Consolidation
 
+This project is associated with the Forest Technology Research Group, University of Helsinki (https://github.com/forest-technology-helsinki). 
+
 This repository contains a Python implementation for processing GNSS track data, generating kernel density maps, reclassifying rasters, and extracting centerlines. The project uses Python libraries such as `geopandas`, `shapely`, `rasterio`, and `pygeoops`.
 
 ## Features
