@@ -24,3 +24,4 @@ Citation: Cao, S., Abdi, O., Koivukoski, K., Mao, Z., & Uusitalo, J. (2025). Aut
    ```bash
    git clone https://github.com/OMID018/GNSS-Track-Consolidation.git
    cd GNSS-Track-Consolidation
+   pip install -r requirements.txt
